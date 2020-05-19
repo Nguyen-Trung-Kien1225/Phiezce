@@ -37,7 +37,7 @@
    {
       "name":"wiki",
       "decs":"tra khảo nội dung bạn cần tìm hiểu ",
-      "usage":"wiko [en] [nội dung cần tìm hiểu] nếu sử dụng tiếng Việt không cần nhập en",
+      "usage":"wiki [en] [nội dung cần tìm hiểu] nếu sử dụng tiếng Việt không cần nhập en",
       "example":"wiki loài chó",
       "group":"general"
    },
